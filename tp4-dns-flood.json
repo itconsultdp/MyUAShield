@@ -1,0 +1,15 @@
+[    
+    {
+        "method": "dns_flood",
+        "name": "mopmr.org",
+        "ip": "176.99.13.12",
+        "port": 53,
+        "domains": [
+            "mopmr.org",
+            "president.gospmr.org",
+            "gov-pmr.org",
+            "mfa-pmr.org",
+            "vspmr.org"
+        ]
+    }
+]

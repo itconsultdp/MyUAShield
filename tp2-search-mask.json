@@ -1,0 +1,15 @@
+[
+    {
+        "method": "get",
+        "name": "CDEK (search engine)",
+        "page": "https://www.cdek.ru/ru/search?searchid=2353167&text=%%%text%%%&web=0",
+        "randomGenerators": [
+            {
+                "type": "string",
+                "name": "text",
+                "minLength": 3,
+                "maxLength": 15
+            }
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "method": "get",
+        "page": "https://qiwi.com/"
+    }
+]
+
+
+// либо проще воспринимаемый код
+
+[
+    {"method": "get", "page": "https://regservice.keydisk.ru"}, 
+    {"method": "get", "page": "https://callback.keydisk.ru"}, 
+    {"method": "get", "page": "http://report.keydisk.ru"},
+]
